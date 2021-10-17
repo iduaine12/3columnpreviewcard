@@ -1,6 +1,6 @@
 # 3columnpreviewcard
 3 Column Preview Card
-![Screenshot 2021-10-16 at 17 05 54](https://user-images.githubusercontent.com/50029126/137594370-d569a171-0f51-4598-98b8-4bab33c46f51.png)
+![Screenshot 2021-10-17 at 08 18 04](https://user-images.githubusercontent.com/50029126/137616133-e4cab35a-d066-4176-946f-bd535f144bd0.png)
 
 This is a 3 Column Preview Card challenge from frontend mentor.
 
